@@ -1,7 +1,7 @@
 
 {
-	"name": "com.bidu.bundle-tools",
-	"displayName": "JohnBui Bundle",
+	"name": "com.hexogonsol.bundle-tools",
+	"displayName": "Hexo Bundle",
 	"version": "1.7.0",
 	"unity": "2018.1",
 	"description": "Tools to export content.",
