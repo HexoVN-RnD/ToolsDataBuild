@@ -1,0 +1,12 @@
+
+{
+	"name": "com.bidu.bundle-tools",
+	"displayName": "JohnBui Bundle",
+	"version": "1.7.0",
+	"unity": "2018.1",
+	"description": "Tools to export content.",
+	"keywords": ["asset", "bundle", "bundles", "assetbundles"],
+	"category": "Asset Bundles",
+	"dependencies": {
+	}
+}

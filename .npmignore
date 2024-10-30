@@ -1,0 +1,6 @@
+artifacts/**
+build/**
+Documentation/ApiDocs/**
+.npmrc
+.npmignore
+.gitignore
